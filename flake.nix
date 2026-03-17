@@ -44,13 +44,13 @@
 
         libsoup_3
 
-        webkitgtk_6_0
+        webkitgtk_4_1
 
         librsvg
       ];
 
       libraries = with pkgs; [
-        webkitgtk_6_0
+        webkitgtk_4_1
 
         gtk3
 
