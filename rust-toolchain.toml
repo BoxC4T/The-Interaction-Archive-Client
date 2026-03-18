@@ -1,5 +1,0 @@
-[toolchain]
-# You can use a stable channel. Tauri recommends using a Rust version of at least 1.64
-channel = "1.94.0"
-components = ["rustfmt", "clippy", "rust-src"]
-targets = ["x86_64-unknown-linux-gnu"]
